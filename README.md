@@ -1,5 +1,6 @@
 # proCedural-maze
 
-game-dev project based on SDL-C with the goal to develop a maze-escape game with procedural generated maps
+### Description
+Game develpoment project based on SDL2 and C with the goal to develop a maze-escape game with procedural generated maps.
 
 
